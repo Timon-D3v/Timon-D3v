@@ -2,7 +2,7 @@
 - 🚀 Visit my site: [timondev.vip](https://www.timondev.com)
 - 👀 I’m interested in programming and volleyball.
 - 🌱 I’m currently learning html, js and css. (Front and backend)
-- 📫 How to reach me: timon.dev.main@gmail.com
+- 📫 How to reach me: info@timondev.com
 
 <!---
 Timon-D3v/Timon-D3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
