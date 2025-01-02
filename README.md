@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Timon Fiedler
 
-I'm a 17-year-old self-taught web developer with about one year of experience in building dynamic and responsive web applications.
+I'm a 18-year-old self-taught web developer with about one year of experience in building dynamic and responsive web applications.
 
 ### 🔧 Skills & Technologies:
 - **Languages**: JavaScript (Node.js), HTML, CSS
