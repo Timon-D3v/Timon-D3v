@@ -9,14 +9,14 @@
 
 ###
 
-<img align="right" width="6" height="200" />
+<img align="right" width="6" height="200" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
 <img align="right" height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmltMndnZmJ2YXlhaGIweWYyNDFvZjB5b2JtemZua2tvYzF2bDg3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
-<img align="right" width="16" height="200" />
+<img align="right" width="16" height="200" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
 
 ###
 
 <div align="center">
-    <img width="1" height="55" />
+    <img width="1" height="55" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <a href="https://www.linkedin.com/in/timon-fiedler/">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnDQogICBjbGFzcz0iaW9uaWNvbiINCiAgIHZpZXdCb3g9IjAgMCA1MTIgNTEyIg0KICAgdmVyc2lvbj0iMS4xIg0KICAgaWQ9InN2ZzEiDQogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciDQogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIg0KICAgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIg0KICAgeG1sbnM6Y2M9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL25zIyINCiAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+DQogIDx0aXRsZQ0KICAgICBpZD0idGl0bGUxIj5XaGl0ZSBTVkcgTG9nbyBMaW5rZWRJbjwvdGl0bGU+DQogIDxkZWZzDQogICAgIGlkPSJkZWZzMSIgLz4NCiAgPHBhdGgNCiAgICAgZD0iTTQ0NC4xNyAzMkg3MC4yOEM0OS44NSAzMiAzMiA0Ni43IDMyIDY2Ljg5djM3NC43MkMzMiA0NjEuOTEgNDkuODUgNDgwIDcwLjI4IDQ4MGgzNzMuNzhjMjAuNTQgMCAzNS45NC0xOC4yMSAzNS45NC0zOC4zOVY2Ni44OUM0ODAuMTIgNDYuNyA0NjQuNiAzMiA0NDQuMTcgMzJ6bS0yNzMuMyAzNzMuNDNoLTY0LjE4VjIwNS44OGg2NC4xOHpNMTQxIDE3NS41NGgtLjQ2Yy0yMC41NCAwLTMzLjg0LTE1LjI5LTMzLjg0LTM0LjQzIDAtMTkuNDkgMTMuNjUtMzQuNDIgMzQuNjUtMzQuNDJzMzMuODUgMTQuODIgMzQuMzEgMzQuNDJjLS4wMSAxOS4xNC0xMy4zMSAzNC40My0zNC42NiAzNC40M3ptMjY0LjQzIDIyOS44OWgtNjQuMThWMjk2LjMyYzAtMjYuMTQtOS4zNC00NC0zMi41Ni00NC0xNy43NCAwLTI4LjI0IDEyLTMyLjkxIDIzLjY5LTEuNzUgNC4yLTIuMjIgOS45Mi0yLjIyIDE1Ljc2djExMy42NmgtNjQuMThWMjA1Ljg4aDY0LjE4djI3Ljc3YzkuMzQtMTMuMyAyMy45My0zMi40NCA1Ny44OC0zMi40NCA0Mi4xMyAwIDc0IDI3Ljc3IDc0IDg3LjY0eiINCiAgICAgaWQ9InBhdGgxIg0KICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxIiAvPg0KICA8bWV0YWRhdGENCiAgICAgaWQ9Im1ldGFkYXRhMSI+DQogICAgPHJkZjpSREY+DQogICAgICA8Y2M6V29yaw0KICAgICAgICAgcmRmOmFib3V0PSIiPg0KICAgICAgICA8ZGM6dGl0bGU+V2hpdGUgU1ZHIExvZ28gTGlua2VkSW48L2RjOnRpdGxlPg0KICAgICAgPC9jYzpXb3JrPg0KICAgIDwvcmRmOlJERj4NCiAgPC9tZXRhZGF0YT4NCjwvc3ZnPg0K&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
     </a>
@@ -43,33 +43,33 @@
 ###
 
 <div align="center">
-    <img width="1" height="55" />
+    <img width="1" height="55" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"  width="35" alt="TypeScript Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"  width="35" alt="JavaScript Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="35" width="35" alt="Angular Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35" />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="35" alt="MySQL Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="35" alt="Node.js Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="35" alt="HTML5 Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="35" alt="CSS3 Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="35" alt="Python Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35" alt="Git Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" width="35" alt="NPM Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="35" alt="VSCode Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="35" width="35" alt="Opera Logo"  />
-    <img width="12" height="35" />
+    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="35" width="35" alt="Inkscape Logo"  />
 </div>
 
