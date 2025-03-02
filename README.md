@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi There! 
-    <img src="https://slackmojis.com/emojis/35799-lightsaber_duel/download" height="34" width="34"> 
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/lightsaber.gif" height="34" width="34"> 
     I'm Timon.dev 
     (<a href="https://github.com/Timon-D3v">
         @Timon-D3v
@@ -9,68 +9,68 @@
 
 ###
 
-<img align="right" width="6" height="200" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-<img align="right" height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmltMndnZmJ2YXlhaGIweWYyNDFvZjB5b2JtemZua2tvYzF2bDg3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
-<img align="right" width="16" height="200" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
+<img align="right" width="6" height="200" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+<img align="right" height="200" width="200" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/hacker.gif"  />
+<img align="right" width="16" height="200" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
 
 ###
 
 <div align="center">
-    <img width="1" height="55" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
+    <img width="1" height="55" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
     <a href="https://www.linkedin.com/in/timon-fiedler/">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnDQogICBjbGFzcz0iaW9uaWNvbiINCiAgIHZpZXdCb3g9IjAgMCA1MTIgNTEyIg0KICAgdmVyc2lvbj0iMS4xIg0KICAgaWQ9InN2ZzEiDQogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciDQogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIg0KICAgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIg0KICAgeG1sbnM6Y2M9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL25zIyINCiAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+DQogIDx0aXRsZQ0KICAgICBpZD0idGl0bGUxIj5XaGl0ZSBTVkcgTG9nbyBMaW5rZWRJbjwvdGl0bGU+DQogIDxkZWZzDQogICAgIGlkPSJkZWZzMSIgLz4NCiAgPHBhdGgNCiAgICAgZD0iTTQ0NC4xNyAzMkg3MC4yOEM0OS44NSAzMiAzMiA0Ni43IDMyIDY2Ljg5djM3NC43MkMzMiA0NjEuOTEgNDkuODUgNDgwIDcwLjI4IDQ4MGgzNzMuNzhjMjAuNTQgMCAzNS45NC0xOC4yMSAzNS45NC0zOC4zOVY2Ni44OUM0ODAuMTIgNDYuNyA0NjQuNiAzMiA0NDQuMTcgMzJ6bS0yNzMuMyAzNzMuNDNoLTY0LjE4VjIwNS44OGg2NC4xOHpNMTQxIDE3NS41NGgtLjQ2Yy0yMC41NCAwLTMzLjg0LTE1LjI5LTMzLjg0LTM0LjQzIDAtMTkuNDkgMTMuNjUtMzQuNDIgMzQuNjUtMzQuNDJzMzMuODUgMTQuODIgMzQuMzEgMzQuNDJjLS4wMSAxOS4xNC0xMy4zMSAzNC40My0zNC42NiAzNC40M3ptMjY0LjQzIDIyOS44OWgtNjQuMThWMjk2LjMyYzAtMjYuMTQtOS4zNC00NC0zMi41Ni00NC0xNy43NCAwLTI4LjI0IDEyLTMyLjkxIDIzLjY5LTEuNzUgNC4yLTIuMjIgOS45Mi0yLjIyIDE1Ljc2djExMy42NmgtNjQuMThWMjA1Ljg4aDY0LjE4djI3Ljc3YzkuMzQtMTMuMyAyMy45My0zMi40NCA1Ny44OC0zMi40NCA0Mi4xMyAwIDc0IDI3Ljc3IDc0IDg3LjY0eiINCiAgICAgaWQ9InBhdGgxIg0KICAgICBzdHlsZT0iZmlsbDojZmZmZmZmO2ZpbGwtb3BhY2l0eToxIiAvPg0KICA8bWV0YWRhdGENCiAgICAgaWQ9Im1ldGFkYXRhMSI+DQogICAgPHJkZjpSREY+DQogICAgICA8Y2M6V29yaw0KICAgICAgICAgcmRmOmFib3V0PSIiPg0KICAgICAgICA8ZGM6dGl0bGU+V2hpdGUgU1ZHIExvZ28gTGlua2VkSW48L2RjOnRpdGxlPg0KICAgICAgPC9jYzpXb3JrPg0KICAgIDwvcmRmOlJERj4NCiAgPC9tZXRhZGF0YT4NCjwvc3ZnPg0K&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Logo" />
+        <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/linkedin.svg" height="35" alt="LinkedIn Logo" />
     </a>
     <a href="https://codepen.io/Timon-Fiedler">
-        <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodePen Logo"  />
+        <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/codepen.svg" height="35" alt="CodePen Logo" />
     </a>
     <a href="https://www.instagram.com/timon.dev/">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram Logo"  />
+        <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/instagram.svg" height="35" alt="Instagram Logo" />
     </a>
     <a href="https://stackoverflow.com/users/22688455/timon-dev">
-        <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Stack Overflow Logo"  />
+        <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/stackoverflow.svg" height="35" alt="Stack Overflow Logo" />
     </a>
     <a href="mailto:info@timondev.com">
-        <img src="https://img.shields.io/static/v1?message=Mail&logo=maildotru&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="G-Mail Logo" />
+        <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/mail.svg" height="35" alt="@-Symbol" />
     </a>
     <a href="https://unsplash.com/@timon_dev">
-        <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Unsplash Logo"  />
+        <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/unsplash.svg" height="35" alt="Unsplash Logo" />
     </a>
     <a href="https://discordapp.com/users/560914605145325596">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo"  />
+        <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/discord.svg" height="35" alt="Discord Logo" />
     </a>
 </div>
 
 ###
 
 <div align="center">
-    <img width="1" height="55" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"  width="35" alt="TypeScript Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"  width="35" alt="JavaScript Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="35" width="35" alt="Angular Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35" />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="35" alt="MySQL Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="35" alt="Node.js Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="35" alt="HTML5 Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="35" alt="CSS3 Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="35" alt="Python Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35" alt="Git Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" width="35" alt="NPM Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="35" alt="VSCode Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="35" width="35" alt="Opera Logo"  />
-    <img width="12" height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="35" width="35" alt="Inkscape Logo"  />
+    <img width="1" height="55" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/typescript.svg" height="35"  width="35" alt="TypeScript Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/javascript.svg" height="35"  width="35" alt="JavaScript Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/angular.svg" height="35" width="35" alt="Angular Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/sass.svg" alt="sass" width="35" height="35" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/mysql.svg" height="35" width="35" alt="MySQL Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/nodejs.svg" height="35" width="35" alt="Node.js Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/html.svg" height="35" width="35" alt="HTML5 Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/css.svg" height="35" width="35" alt="CSS3 Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/python.svg" height="35" width="35" alt="Python Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/git.svg" height="35" width="35" alt="Git Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/npm.svg" height="35" width="35" alt="NPM Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/vscode.svg" height="35" width="35" alt="VSCode Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/opera.svg" height="35" width="35" alt="Opera Logo"  />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/inkscape.svg" height="35" width="35" alt="Inkscape Logo"  />
 </div>
 
 <br>
@@ -78,7 +78,7 @@
 
 <h1 align="center">
     About Me 
-    <img src="https://slackmojis.com/emojis/42105-awesome/download" height="24" width="24">
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/me.png" height="24" width="24">
 </h1>
 
 <p>
@@ -104,7 +104,7 @@
 
 <h1 align="center">
     My GitHub Stats 
-    <img src="https://slackmojis.com/emojis/12259-cool_cat/download" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/cat.gif" width="30" height="30">
 </h1>
 
 <div align="center">
@@ -124,7 +124,7 @@
 
 <h1 align="center">
     My Contributions 
-    <img src="https://slackmojis.com/emojis/36841-jammin-snake/download" width="26" height="26">
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/snake.gif" width="26" height="26">
 </h1>
 
 <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/output/snake.svg" alt="Snake animation" />
@@ -132,7 +132,7 @@
 <br>
 <br>
 
-<h1 align="center">Stuff I worked with <img src="https://slackmojis.com/emojis/36373-pc/download" width="25" height="25"></h1>
+<h1 align="center">Stuff I worked with <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/pc.gif" width="25" height="25"></h1>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
