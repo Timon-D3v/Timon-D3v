@@ -86,14 +86,18 @@
     <br>
     <br>
     I taught myself web development through learning-by-doing and have already successfully completed several projects. These include developing the website for the charity project 
-    <a href="https://zurich-meets-tanzania.com" target="_blank">
+    <a href="https://www.zurich-meets-tanzania.com" target="_blank">
         zurich meets tanzania
     </a>
     , as well as some smaller projects.
     <br>
     I also have a keen interest in technology and host my website on my own server.
     <br>
-    To get more impressions about my work, have a look at my repositories or contact me via e-mail. 
+    To get more impressions about my work, have a look at my 
+    <a href="https://www.timondev.com" target="_blank">
+        portfolio
+    </a> 
+    and repositories or contact me via e-mail. 
     <br>
     <br>
     I'm looking forward to your message :]
