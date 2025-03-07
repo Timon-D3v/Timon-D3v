@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi There! 
+    Hello There! 
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/lightsaber.gif" height="34" width="34"> 
     I'm Timon.dev 
     (<a href="https://github.com/Timon-D3v">
