@@ -107,31 +107,31 @@
 <br>
 
 <h1 align="center">
-    My GitHub Stats 
-    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/cat.gif" width="30" height="30">
-</h1>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
-    <br>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Timon-D3v&theme=nightowl&hide_border=false">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Timon-D3v&theme=nightowl&no-frame=false&no-bg=true&margin-w=4">
-    <br>
-    <img src="https://github-contributor-stats.vercel.app/api?username=Timon-D3v&limit=5&theme=nightowl&combine_all_yearly_contributions=true">
-</div>
-
-<br>
-<br>
-
-<h1 align="center">
     My Contributions 
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/snake.gif" width="26" height="26">
 </h1>
 
 <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/output/snake.svg" alt="Snake animation" />
+
+<br>
+<br>
+
+<h1 align="center">
+    My GitHub Stats 
+    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/cat.gif" width="30" height="30">
+</h1>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Timon-D3v&theme=nightowl&no-frame=false&no-bg=true&margin-w=4">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
+    <br>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Timon-D3v&theme=nightowl&hide_border=false">
+    <br>
+    <img src="https://github-contributor-stats.vercel.app/api?username=Timon-D3v&limit=5&theme=nightowl&combine_all_yearly_contributions=true">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div>
 
 <br>
 <br>
