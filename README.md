@@ -122,7 +122,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Timon-D3v&theme=nightowl&no-frame=false&no-bg=true&margin-w=4">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
     <br>
@@ -130,7 +130,7 @@
     <br>
     <img src="https://github-contributor-stats.vercel.app/api?username=Timon-D3v&limit=5&theme=nightowl&combine_all_yearly_contributions=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img src="https://github-profile-trophy.vercel.app/?username=Timon-D3v&theme=nightowl&no-frame=false&no-bg=true&margin-w=4">
 </div>
 
 <br>
