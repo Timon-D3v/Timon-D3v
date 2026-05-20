@@ -9,14 +9,14 @@
 
 ###
 
-<img align="right" width="6" height="200" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+<img align="right" width="6" height="200" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
 <img align="right" height="200" width="200" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/hacker.gif"  />
-<img align="right" width="16" height="200" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+<img align="right" width="16" height="200" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
 
 ###
 
 <div align="center">
-    <img width="1" height="55" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="1" height="55" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <a href="https://www.linkedin.com/in/timon-fiedler/">
         <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/linkedin.svg" height="35" alt="LinkedIn Logo" />
     </a>
@@ -43,33 +43,33 @@
 ###
 
 <div align="center">
-    <img width="1" height="55" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="1" height="55" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/typescript.svg" height="35"  width="35" alt="TypeScript Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/javascript.svg" height="35"  width="35" alt="JavaScript Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/angular.svg" height="35" width="35" alt="Angular Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/sass.svg" alt="sass" width="35" height="35" />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/mysql.svg" height="35" width="35" alt="MySQL Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/nodejs.svg" height="35" width="35" alt="Node.js Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/html.svg" height="35" width="35" alt="HTML5 Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/css.svg" height="35" width="35" alt="CSS3 Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/python.svg" height="35" width="35" alt="Python Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/git.svg" height="35" width="35" alt="Git Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/npm.svg" height="35" width="35" alt="NPM Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/vscode.svg" height="35" width="35" alt="VSCode Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/opera.svg" height="35" width="35" alt="Opera Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png.png" />
+    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/inkscape.svg" height="35" width="35" alt="Inkscape Logo"  />
 </div>
 
