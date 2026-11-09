@@ -121,6 +121,8 @@
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/cat.gif" width="30" height="30">
 </h1>
 
+https://github-stats-extended.vercel.app/api?username=Timon-D3v&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true
+
 <div align="center">
     <div>
         <img src="https://github-stats-extended.vercel.app/api?username=Timon-D3v&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
