@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *" # Run every day at 00:00
   push:
     paths:
-      - ".github/workflows/streak-stats.yml" # Run any time this file is modified
+      - ".github/workflows/streak.yml" # Run any time this file is modified
   workflow_dispatch: # Run manually from the Actions tab
 
 jobs:
