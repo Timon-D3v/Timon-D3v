@@ -3,18 +3,16 @@ name: Generate snake animation
 on:
   schedule: # execute every 12 hours
     - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
   push:
     paths:
       - ".github/workflows/snake.yml"
+  workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
+    runs-on: self-hosted
     permissions:
       contents: write
-    runs-on: self-hosted
     timeout-minutes: 5
 
     steps:
