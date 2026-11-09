@@ -122,10 +122,10 @@
 </h1>
 
 <div align="center">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <br>
-    <img src="https://github-stats-extended.vercel.app/api?username=Timon-D3v&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
-    <br>
+    <div>
+        <img src="https://github-stats-extended.vercel.app/api?username=Timon-D3v&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Timon-D3v&layout=donut-vertical&langs_count=18&theme=tokyonight&count_private=true">
+    <div>
     <!--<img src="https://nirzak-streak-stats.vercel.app/?user=Timon-D3v&theme=nightowl&hide_border=false">
     <br>
     <img src="https://github-contributor-stats.vercel.app/api?username=Timon-D3v&limit=5&theme=nightowl&combine_all_yearly_contributions=true">
