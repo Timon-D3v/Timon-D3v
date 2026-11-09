@@ -126,11 +126,13 @@
         <img src="https://github-stats-extended.vercel.app/api?username=Timon-D3v&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
         <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Timon-D3v&layout=donut-vertical&langs_count=18&theme=tokyonight&count_private=true">
     <div>
+        <br>
     <!--<img src="https://nirzak-streak-stats.vercel.app/?user=Timon-D3v&theme=nightowl&hide_border=false">
     <br>
     <img src="https://github-contributor-stats.vercel.app/api?username=Timon-D3v&limit=5&theme=nightowl&combine_all_yearly_contributions=true">
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Timon-D3v&theme=nightowl&no-frame=false&no-bg=true&margin-w=4">-->
+    <br>-->
+        <img src="https://github-profile-trophy-unserori.vercel.app/?username=Timon-D3v&theme=nightowl&no-frame=false&no-bg=true&margin-w=4">
+        <!-- See more mirrors here: https://github.com/ryo-ma/github-profile-trophy -->
 </div>
 
 <br>
