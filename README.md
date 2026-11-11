@@ -68,8 +68,6 @@
     <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/vscode.svg" height="35" width="35" alt="VSCode Logo"  />
     <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
-    <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/opera.svg" height="35" width="35" alt="Opera Logo"  />
-    <img width="12" height="35" src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/transparent.png" />
     <img src="https://raw.githubusercontent.com/Timon-D3v/Timon-D3v/main/static/inkscape.svg" height="35" width="35" alt="Inkscape Logo"  />
 </div>
 
